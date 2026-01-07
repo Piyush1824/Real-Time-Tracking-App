@@ -24,6 +24,23 @@ Users can connect from their browser, share their current geolocation, and view 
 | Frontend Map | (e.g., Leaflet.js or other map library) |
 | Package Manager | npm |
 
+# How to Run 
+
+1. Clone the Repo on your local system.
+
+2. Open terminal and run this command
+
+       npm intall
+       npx nodemon app.js
+
+3. Go to any web browser and type
+
+       localhost:3000
+
+4. Done, your code is running on port 3000.   
+
+
+
 
 Author,
 
